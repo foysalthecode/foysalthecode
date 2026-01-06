@@ -66,16 +66,14 @@ I love turning creative ideas into interactive and functional web experiences th
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=100&section=footer&text=%20I%20Code%20with%20Style%20and%20Purpose%20✨&fontColor=fff&fontSize=20&fontAlign=middle" />
 </p>
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foysalthecode&theme=radical" alt="GitHub Streak" style="margin-bottom: 10px;" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=foysalthecode&show_icons=true&theme=radical" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysalthecode&layout=compact&theme=radical" height="180px" />
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
 
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
 
 ---
 
