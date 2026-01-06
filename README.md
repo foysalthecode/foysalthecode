@@ -68,14 +68,14 @@ I love turning creative ideas into interactive and functional web experiences th
 
 ## 📊 GitHub Stats
 
-<div align="center">
+## 📊 GitHub Stats
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=foysalthecode&theme=radical" alt="GitHub Streak" style="margin-bottom: 10px;" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=foysalthecode&show_icons=true&theme=radical" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysalthecode&layout=compact&theme=radical" height="180px" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=foysalthecode&show_icons=true&theme=tokyonight)
 
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=foysalthecode&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foysalthecode&layout=compact&theme=tokyonight)
+
 
 
 ---
