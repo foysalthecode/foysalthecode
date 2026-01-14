@@ -87,6 +87,8 @@ I love turning creative ideas into interactive and functional web experiences th
 | 🐾 [Pet Adoption Website](https://github.com/foysalthecode/pet-adoption) | Adopt and find pets with ease | React, Node, MongoDB |
 | 🇯🇵 [Japanese Learning Site](https://github.com/foysalthecode/japanese-learning) | Learn Japanese with fun | React, JSON |
 | 🏋️‍♂️ [Fitness Web App](https://github.com/foysalthecode/fitness-app) | Trainer-based fitness site | React, Tailwind, DaisyUI |
+| ✈️ [Visa Web App](https://visagoz.web.app/) | Visa application site | React, Tailwind, DaisyUI |
+
 
 ---
 
